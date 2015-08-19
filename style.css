@@ -1,0 +1,14 @@
+body.black {
+  background-color:black;
+  color:white;
+}
+body.white {
+  background-color:white;
+  color:black;
+}
+#logo {
+  width:150px;
+}
+container{
+  padding-top:20px;
+}
